@@ -1,0 +1,16 @@
+
+        body{
+            background-color: bisque;
+            color: rgb(7, 7, 7);
+            position: absolute;
+            border: 10px #121212;
+            margin: 10px 40px 40px 10px rgb(115, 185, 217);
+            padding-left:50px;
+            padding-right:70px;
+            padding-top: 10px;
+            padding-bottom: 40px;
+            font-size: 30px;
+
+            
+        }
+    
